@@ -1,7 +1,5 @@
 # Group N: MARVEL PARTNERSHIP NETWORK ANALYSIS
 
-![marvel-logo-wallpaper.jpg](attachment:a94771b9-8301-4383-84b9-549b289e32ac.jpg)
-
 In the narrative around superheroes and villains from the Marvel Universe lies a web of varying relations, alliances, or partnerships interwoven within each character. The five minds behind the project: Margherita Baccheschi, Sofia Sabbioni, Peter Luigi Festa, Giovanni Lolli, and Umberto Cipriani, students of the Bachelor in Management and Computer Science, explored these relationships to bring out the hidden dynamics of the Marvel Universe behind characters.
 
 By analyzing a database containing co-occurrences noted in Wikipedia pages, this project further intends to examine the connections in the entire Marvel Universe-themselves-an analysis of this type being character behavior to empower revealing inter-interests or usages of characters.  
